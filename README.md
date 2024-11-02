@@ -1,6 +1,6 @@
 # Hi there, I'm Tyler Woody! 👋
 
-### Welcome to my GitHub profile! I'm Tyler, a passionate student and aspiring software engineer specializing in cybersecurity and game development. I love transforming complex challenges into innovative solutions. Join me on my coding adventures!
+### Welcome to my GitHub profile! I'm Tyler, a passionate student and aspiring software engineer. I love transforming complex challenges into innovative solutions. Join me on my coding adventures!
 
 ## 🎓 About Me:
 - I'm currently pursuing a **Bachelor of Science in Computer Science**, with a minor in **Cybersecurity**.
